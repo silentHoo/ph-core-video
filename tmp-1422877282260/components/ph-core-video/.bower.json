@@ -1,0 +1,33 @@
+{
+  "author": "Patrick Hillert",
+  "name": "ph-core-video",
+  "description": "This component gives basic functionality to record from a given getUserMedia stream.",
+  "license": "BSD",
+  "keywords": [
+    "polymer",
+    "core",
+    "video",
+    "record video",
+    "getusermedia",
+    "web-components"
+  ],
+  "main": "ph-core-video.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5.2",
+    "ph-polymer-mixins": "silentHoo/ph-polymer-mixins#^0.1.0"
+  },
+  "devDependencies": {
+    "web-component-tester": "Polymer/web-component-tester#^2.0.0"
+  },
+  "homepage": "https://github.com/silentHoo/ph-core-video",
+  "_release": "6c42c801a6",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "6c42c801a6d3ad13118be1f9d019ce933807f330"
+  },
+  "_source": "git://github.com/silentHoo/ph-core-video.git",
+  "_target": "master",
+  "_originalSource": "silentHoo/ph-core-video",
+  "_direct": true
+}
